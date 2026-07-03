@@ -1,0 +1,6 @@
+{
+  "name": "Discernment Island",
+  "description": "A dynamic notch-style app that rates YouTube videos and web content according to Biblical and Christian knowledge with scoring emojis, detailed theological feedback, and bible verses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
